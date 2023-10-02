@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/solna/OneDrive/Documents/GitHub/Modelo-IA/CategoriesModel/mlruns/0/c7d469e67ab74c04af0c495b194cdc89/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: c7d469e67ab74c04af0c495b194cdc89
+run_name: Trained Models
+run_uuid: c7d469e67ab74c04af0c495b194cdc89
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696035164978
+status: 1
+tags: []
+user_id: solna
